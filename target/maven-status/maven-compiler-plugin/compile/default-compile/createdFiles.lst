@@ -1,0 +1,6 @@
+sdu\bigdata\controller\KeyWordIdentify.class
+sdu\bigdata\controller\UserController.class
+sdu\bigdata\DGApplication.class
+sdu\bigdata\controller\MultiTableMerge.class
+sdu\bigdata\controller\PaperShot.class
+sdu\bigdata\controller\TableSampleStandardization.class
