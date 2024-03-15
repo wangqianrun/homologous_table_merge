@@ -8,5 +8,7 @@ public class MultiTableMerge {
     @RequestMapping("DG/MultiTableMerge")
     public String multiTableMerge() {
         return "view/MultiTableMerge";
+
     }
 }
+
